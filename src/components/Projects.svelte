@@ -239,7 +239,7 @@
                             <button><a
                                     href="https://github.com/bsherwood9/quick-street-fe">Frontend</a></button>
                             <button><a
-                                    href="https://github.com/bsherwood9/quick-street-fe">Backend</a></button>
+                                    href="https://github.com/bsherwood9/quick-street-be">Backend</a></button>
                         </div>
                     </div>
                 </div>
