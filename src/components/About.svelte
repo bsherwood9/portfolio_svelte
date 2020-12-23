@@ -50,6 +50,9 @@
     }
 
     @media (max-width: 835px) {
+        section {
+            padding-top: 110px;
+        }
         .stories {
             flex-direction: column;
             align-items: center;

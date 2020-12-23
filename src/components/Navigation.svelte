@@ -22,6 +22,8 @@
         display: flex;
         flex-direction: column;
         width: 50px;
+        margin-top: 5px;
+        padding: 0;
     }
 
     li {
@@ -80,13 +82,14 @@
                 About<a href="#about"><img src={user} alt="User Icon" /></a>
             </li>
             <li>
-                Portfolio<a href="#tech"><img src={brief} alt="Breifcase" /></a>
-            </li>
-            <li>
                 Contact<a href="#contact"><img
                         src={contact}
                         alt="Contact envelope" /></a>
             </li>
+            <li>
+                Portfolio<a href="#tech"><img src={brief} alt="Breifcase" /></a>
+            </li>
+
             <li>
                 Resume
                 <a

@@ -123,7 +123,7 @@
         section {
             margin: 0 auto;
             height: 400px;
-            padding: 0;
+            padding-top: 80px;
             margin-bottom: 100px;
         }
         .overlay {

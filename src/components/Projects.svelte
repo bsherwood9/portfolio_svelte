@@ -109,7 +109,6 @@
     .card div p:nth-child(2) {
         font-size: 1.5rem;
     }
-
     hr {
         height: 3px;
         width: 30%;
@@ -124,7 +123,9 @@
         border-radius: 0;
         transition: all 0.3s ease;
     }
-
+    button:hover {
+        cursor: pointer;
+    }
     .prev {
         border: none;
         padding: 5px;
@@ -163,10 +164,10 @@
     }
     .desc {
         height: 100%;
-        min-height: 100px;
+        min-height: 150px;
     }
     p {
-        padding: 15px;
+        padding: 15px 0;
         display: flex;
         justify-content: center;
     }
@@ -201,6 +202,14 @@
         }
         .card-size {
             width: 350px;
+        }
+        .desc {
+            height: 150px;
+            /* min-height: 150px; */
+        }
+        div p:nth-child(2) {
+            padding: 0;
+            height: 34px;
         }
     }
 </style>
@@ -317,7 +326,7 @@
         {:else}
             <button
                 transition:fade
-                class="prev"
+                class="btn prev"
                 disabled={leftBool}
                 on:click={handleClick('prev', grid)}>
                 <svg
@@ -338,7 +347,7 @@
         {:else}
             <button
                 transition:fade
-                class="next"
+                class="btn next"
                 disabled={rightBool}
                 on:click={handleClick('next', grid)}>
                 <svg

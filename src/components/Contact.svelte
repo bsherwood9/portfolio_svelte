@@ -63,6 +63,9 @@
         }
     }
     @media (max-width: 835px) {
+        section {
+            padding-top: 80px;
+        }
         div {
             width: 90%;
         }
