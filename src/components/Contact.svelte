@@ -118,8 +118,8 @@
                 </g>
             </svg>
         </a>
-        <a href="https://twitter.com/Bsherwood9">
-            <svg
+        <!-- <a href="https://twitter.com/Bsherwood9"> -->
+        <!-- <svg
                 version="1.1"
                 xmlns="http://www.w3.org/2000/svg"
                 xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -134,8 +134,7 @@
                     .st1 {
                         fill: #ffffff;
                     }
-                </style>
-                <g id="Dark_Blue">
+                </style><g id="Dark_Blue">
                     <path
                         class="st0"
                         d="M350,400H50c-27.6,0-50-22.4-50-50V50C0,22.4,22.4,0,50,0h300c27.6,0,50,22.4,50,50v300
@@ -151,7 +150,7 @@
                 c-3.3,0-6.5-0.3-9.6-0.9c6.5,20.4,25.5,35.2,47.9,35.6c-17.6,13.8-39.7,22-63.7,22c-4.1,0-8.2-0.2-12.2-0.7
                 C97.7,293.1,124.7,301.6,153.6,301.6" />
                 </g>
-            </svg></a>
+            </svg></a> -->
         <a class="email" href="mailto:bsherwood9@gmail.com">
             <svg
                 aria-hidden="true"
