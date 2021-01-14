@@ -185,7 +185,8 @@
                 <img
                     transition:fade={{ y: 200, duration: 3000 }}
                     alt="series of images"
-                    {src} />
+                    {src}
+                    loading="lazy" />
             {/each}
         </div>
     </div>

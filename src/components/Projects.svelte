@@ -222,7 +222,7 @@
             <div class="card">
                 <h2>Market Avenue</h2>
                 <div class="card-size">
-                    <img src={market} alt="website cover" />
+                    <img loading="lazy" src={market} alt="website cover" />
                     <div>
                         <p class="desc">
                             Team ecommerce project that pairs local vendors with
@@ -247,7 +247,7 @@
             <div class="card">
                 <h2>Tip$ease</h2>
                 <div class="card-size">
-                    <img src={tipsease} alt="website cover" />
+                    <img loading="lazy" src={tipsease} alt="website cover" />
                     <div>
                         <p class="desc">
                             One of my first frontend projects. Designed and
@@ -266,7 +266,7 @@
             <div class="card">
                 <h2>Airbnb Price Optimizer</h2>
                 <div class="card-size">
-                    <img src={airbnb} alt="website cover" />
+                    <img loading="lazy" src={airbnb} alt="website cover" />
                     <div>
                         <p class="desc">
                             Worked with datascience team to design and create an
@@ -286,7 +286,7 @@
             <div class="card">
                 <h2>Conway's Game of Life</h2>
                 <div class="card-size">
-                    <img src={conway} alt="website cover" />
+                    <img loading="lazy" src={conway} alt="website cover" />
                     <div>
                         <p class="desc">
                             My first attempt at Conway's Game of Life.
@@ -304,7 +304,7 @@
             <div class="card">
                 <h2>SpiderGraph</h2>
                 <div class="card-size">
-                    <img src={spider} alt="website cover" />
+                    <img loading="lazy" src={spider} alt="website cover" />
                     <div>
                         <p class="desc">
                             Team project building an app that allows users to
