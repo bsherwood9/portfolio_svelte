@@ -93,7 +93,7 @@
             <li>
                 Resume
                 <a
-                    href="https://drive.google.com/file/d/1bMUakiZZPg3Co6oAYC62wmW0-ho11q1x/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1PvDfvwM1asuwQNwOe4VWhEfcHgmAPeqQ/view?usp=sharing"
                     target="_blank"
                     class="resume"><img src={resume} alt="File icon" /></a>
             </li>
