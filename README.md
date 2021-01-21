@@ -1,6 +1,9 @@
 # My Portfolio
 This is my portfolio. It is built using Svelte and vanilla CSS.
 
+#Future Updates
+I think it would be nice to add some reviews or recommendations on my page. Maybe a slider or something. 
+
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
