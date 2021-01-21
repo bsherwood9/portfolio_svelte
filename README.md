@@ -1,6 +1,5 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
----
+# My Portfolio
+This is my portfolio. It is built using Svelte and vanilla CSS.
 
 # svelte app
 
