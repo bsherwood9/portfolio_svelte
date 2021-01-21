@@ -1,7 +1,7 @@
 # My Portfolio
-This is my portfolio. It is built using Svelte and vanilla CSS.
+This is my portfolio. It is built using Svelte and CSS. 
 
-#Future Updates
+# Future Updates
 I think it would be nice to add some reviews or recommendations on my page. Maybe a slider or something. 
 
 # svelte app
