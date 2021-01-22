@@ -1,6 +1,8 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# My Portfolio
+This is my portfolio. It is built using Svelte and CSS. It was deployed using Vercel. 
 
----
+# Future Updates
+I think it would be nice to add some reviews or recommendations on my page. Maybe review carousel. More animations could make it pop a bit more. 
 
 # svelte app
 
